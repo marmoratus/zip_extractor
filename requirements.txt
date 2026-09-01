@@ -1,0 +1,5 @@
+# No third-party dependencies are required; the implementation relies
+# solely on the Python standard library (zipfile, hashlib, threading,
+# concurrent.futures, argparse). This file is kept for convenience and
+# to document optional development/testing dependencies.
+pytest>=7.0
